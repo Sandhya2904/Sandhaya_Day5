@@ -10,11 +10,9 @@ else:
     print("There is no Exception")
 finally:
     print("Always running")
-    
 for var in range(5):
     print(var)
     print("-"*10)
-
 total = 10 + 20
 print("Total=",total)
 print("End of the line")
